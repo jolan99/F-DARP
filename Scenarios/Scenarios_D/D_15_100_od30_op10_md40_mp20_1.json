@@ -1,0 +1,3302 @@
+{
+    "requests": [
+        {
+            "stops": {
+                "15": [
+                    8,
+                    25
+                ],
+                "6": [
+                    32,
+                    49
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "115",
+            "potential_trip_emission": "2645.0"
+        },
+        {
+            "stops": {
+                "13": [
+                    4,
+                    20
+                ],
+                "4": [
+                    8,
+                    24
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "144.0"
+        },
+        {
+            "stops": {
+                "14": [
+                    4,
+                    19
+                ],
+                "13": [
+                    9,
+                    24
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio IV",
+            "emission_rate_vehicle": "105",
+            "potential_trip_emission": "262.5"
+        },
+        {
+            "stops": {
+                "2": [
+                    0,
+                    7
+                ],
+                "6": [
+                    16,
+                    23
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "89",
+            "potential_trip_emission": "1441.8"
+        },
+        {
+            "stops": {
+                "11": [
+                    9,
+                    16
+                ],
+                "15": [
+                    23,
+                    30
+                ],
+                "7": [
+                    32,
+                    39
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "139",
+            "potential_trip_emission": "1848.7000000000003"
+        },
+        {
+            "stops": {
+                "12": [
+                    15,
+                    23
+                ],
+                "10": [
+                    22,
+                    30
+                ],
+                "6": [
+                    41,
+                    49
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "1836.0000000000002"
+        },
+        {
+            "stops": {
+                "13": [
+                    7,
+                    17
+                ],
+                "14": [
+                    12,
+                    22
+                ],
+                "6": [
+                    32,
+                    42
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Kia EV6",
+            "emission_rate_vehicle": "0.0",
+            "potential_trip_emission": "0.0"
+        },
+        {
+            "stops": {
+                "6": [
+                    5,
+                    14
+                ],
+                "2": [
+                    21,
+                    30
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "150",
+            "potential_trip_emission": "2430.0"
+        },
+        {
+            "stops": {
+                "12": [
+                    8,
+                    13
+                ],
+                "10": [
+                    15,
+                    20
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "89",
+            "potential_trip_emission": "204.7"
+        },
+        {
+            "stops": {
+                "7": [
+                    4,
+                    25
+                ],
+                "1": [
+                    14,
+                    35
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Captur I",
+            "emission_rate_vehicle": "95",
+            "potential_trip_emission": "408.5"
+        },
+        {
+            "stops": {
+                "7": [
+                    5,
+                    13
+                ],
+                "10": [
+                    11,
+                    19
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Golf V",
+            "emission_rate_vehicle": "155",
+            "potential_trip_emission": "232.5"
+        },
+        {
+            "stops": {
+                "15": [
+                    8,
+                    17
+                ],
+                "10": [
+                    18,
+                    27
+                ],
+                "7": [
+                    24,
+                    33
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "810.0"
+        },
+        {
+            "stops": {
+                "14": [
+                    5,
+                    11
+                ],
+                "5": [
+                    29,
+                    35
+                ],
+                "10": [
+                    52,
+                    58
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "4757.299999999999"
+        },
+        {
+            "stops": {
+                "5": [
+                    8,
+                    19
+                ],
+                "12": [
+                    27,
+                    38
+                ],
+                "7": [
+                    36,
+                    47
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Megane III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "1953.0"
+        },
+        {
+            "stops": {
+                "11": [
+                    8,
+                    23
+                ],
+                "4": [
+                    16,
+                    31
+                ],
+                "1": [
+                    17,
+                    32
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "143",
+            "potential_trip_emission": "679.25"
+        },
+        {
+            "stops": {
+                "4": [
+                    7,
+                    14
+                ],
+                "12": [
+                    12,
+                    19
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Twingo II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "198.00000000000003"
+        },
+        {
+            "stops": {
+                "10": [
+                    5,
+                    14
+                ],
+                "1": [
+                    14,
+                    23
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "306.0"
+        },
+        {
+            "stops": {
+                "10": [
+                    10,
+                    23
+                ],
+                "3": [
+                    19,
+                    32
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Megane III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "261.0"
+        },
+        {
+            "stops": {
+                "5": [
+                    13,
+                    22
+                ],
+                "3": [
+                    33,
+                    42
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Twingo II",
+            "emission_rate_vehicle": "105",
+            "potential_trip_emission": "2016.0"
+        },
+        {
+            "stops": {
+                "15": [
+                    6,
+                    14
+                ],
+                "13": [
+                    15,
+                    23
+                ],
+                "7": [
+                    24,
+                    32
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Golf V",
+            "emission_rate_vehicle": "155",
+            "potential_trip_emission": "1224.5"
+        },
+        {
+            "stops": {
+                "7": [
+                    12,
+                    25
+                ],
+                "13": [
+                    21,
+                    34
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "108",
+            "potential_trip_emission": "345.6"
+        },
+        {
+            "stops": {
+                "15": [
+                    5,
+                    15
+                ],
+                "4": [
+                    17,
+                    27
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Golf V",
+            "emission_rate_vehicle": "132",
+            "potential_trip_emission": "805.1999999999999"
+        },
+        {
+            "stops": {
+                "8": [
+                    9,
+                    20
+                ],
+                "4": [
+                    20,
+                    31
+                ],
+                "15": [
+                    32,
+                    43
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "89",
+            "potential_trip_emission": "996.8"
+        },
+        {
+            "stops": {
+                "14": [
+                    11,
+                    21
+                ],
+                "11": [
+                    25,
+                    35
+                ],
+                "6": [
+                    39,
+                    49
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 308 II",
+            "emission_rate_vehicle": "82",
+            "potential_trip_emission": "1328.4"
+        },
+        {
+            "stops": {
+                "13": [
+                    0,
+                    8
+                ],
+                "7": [
+                    9,
+                    17
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Megane III",
+            "emission_rate_vehicle": "119",
+            "potential_trip_emission": "380.8"
+        },
+        {
+            "stops": {
+                "8": [
+                    9,
+                    22
+                ],
+                "3": [
+                    20,
+                    33
+                ],
+                "6": [
+                    35,
+                    48
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Citro\u00ebn \u00eb-C4",
+            "emission_rate_vehicle": "0.0",
+            "potential_trip_emission": "0.0"
+        },
+        {
+            "stops": {
+                "9": [
+                    7,
+                    17
+                ],
+                "6": [
+                    26,
+                    36
+                ],
+                "14": [
+                    46,
+                    56
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 307",
+            "emission_rate_vehicle": "129",
+            "potential_trip_emission": "4128.0"
+        },
+        {
+            "stops": {
+                "6": [
+                    9,
+                    16
+                ],
+                "9": [
+                    28,
+                    35
+                ],
+                "12": [
+                    37,
+                    44
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Twingo II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "1413.0"
+        },
+        {
+            "stops": {
+                "15": [
+                    14,
+                    19
+                ],
+                "1": [
+                    27,
+                    32
+                ],
+                "5": [
+                    47,
+                    52
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Peugeot 208 I",
+            "emission_rate_vehicle": "99",
+            "potential_trip_emission": "2514.6"
+        },
+        {
+            "stops": {
+                "14": [
+                    0,
+                    7
+                ],
+                "10": [
+                    7,
+                    14
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": false,
+            "only_driver": true,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "259.9"
+        },
+        {
+            "stops": {
+                "14": [
+                    6,
+                    15
+                ],
+                "6": [
+                    26,
+                    35
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "3494.4"
+        },
+        {
+            "stops": {
+                "11": [
+                    10,
+                    23
+                ],
+                "5": [
+                    28,
+                    41
+                ],
+                "8": [
+                    53,
+                    66
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "6400.8"
+        },
+        {
+            "stops": {
+                "8": [
+                    14,
+                    23
+                ],
+                "2": [
+                    20,
+                    29
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "420.0"
+        },
+        {
+            "stops": {
+                "3": [
+                    3,
+                    21
+                ],
+                "11": [
+                    11,
+                    29
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "772.8"
+        },
+        {
+            "stops": {
+                "14": [
+                    13,
+                    19
+                ],
+                "4": [
+                    21,
+                    27
+                ],
+                "15": [
+                    33,
+                    39
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "1713.6"
+        },
+        {
+            "stops": {
+                "4": [
+                    14,
+                    19
+                ],
+                "15": [
+                    26,
+                    31
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "1024.8"
+        },
+        {
+            "stops": {
+                "6": [
+                    1,
+                    20
+                ],
+                "5": [
+                    15,
+                    34
+                ],
+                "3": [
+                    35,
+                    54
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "4939.2"
+        },
+        {
+            "stops": {
+                "13": [
+                    12,
+                    20
+                ],
+                "14": [
+                    17,
+                    25
+                ],
+                "3": [
+                    23,
+                    31
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "1024.8000000000002"
+        },
+        {
+            "stops": {
+                "11": [
+                    15,
+                    20
+                ],
+                "6": [
+                    29,
+                    34
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "1394.4"
+        },
+        {
+            "stops": {
+                "6": [
+                    5,
+                    23
+                ],
+                "1": [
+                    20,
+                    38
+                ],
+                "13": [
+                    25,
+                    43
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 0,
+            "driver": false,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": true,
+            "mainly_passenger": false,
+            "mainly_driver": false,
+            "potential_trip_emission": "3007.2"
+        },
+        {
+            "stops": {
+                "7": [
+                    12,
+                    22
+                ],
+                "2": [
+                    16,
+                    26
+                ],
+                "15": [
+                    26,
+                    36
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "139",
+            "potential_trip_emission": "1000.8000000000001"
+        },
+        {
+            "stops": {
+                "10": [
+                    12,
+                    20
+                ],
+                "1": [
+                    21,
+                    29
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "VW Golf V",
+            "emission_rate_vehicle": "155",
+            "potential_trip_emission": "527.0"
+        },
+        {
+            "stops": {
+                "8": [
+                    13,
+                    21
+                ],
+                "13": [
+                    23,
+                    31
+                ],
+                "4": [
+                    27,
+                    35
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Captur I",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "655.4000000000001"
+        },
+        {
+            "stops": {
+                "9": [
+                    15,
+                    24
+                ],
+                "10": [
+                    22,
+                    31
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "327.7"
+        },
+        {
+            "stops": {
+                "10": [
+                    15,
+                    25
+                ],
+                "14": [
+                    22,
+                    32
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "102",
+            "potential_trip_emission": "234.6"
+        },
+        {
+            "stops": {
+                "3": [
+                    9,
+                    17
+                ],
+                "12": [
+                    14,
+                    22
+                ],
+                "11": [
+                    21,
+                    29
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "729.0"
+        },
+        {
+            "stops": {
+                "5": [
+                    10,
+                    25
+                ],
+                "13": [
+                    31,
+                    46
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 I",
+            "emission_rate_vehicle": "109",
+            "potential_trip_emission": "2212.7000000000003"
+        },
+        {
+            "stops": {
+                "1": [
+                    12,
+                    22
+                ],
+                "3": [
+                    14,
+                    24
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn \u00eb-C4",
+            "emission_rate_vehicle": "0.0",
+            "potential_trip_emission": "0.0"
+        },
+        {
+            "stops": {
+                "10": [
+                    9,
+                    22
+                ],
+                "11": [
+                    17,
+                    30
+                ],
+                "14": [
+                    31,
+                    44
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Dacia Sandero II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "1044.0"
+        },
+        {
+            "stops": {
+                "11": [
+                    12,
+                    24
+                ],
+                "12": [
+                    19,
+                    31
+                ],
+                "13": [
+                    26,
+                    38
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 I",
+            "emission_rate_vehicle": "109",
+            "potential_trip_emission": "708.5"
+        },
+        {
+            "stops": {
+                "14": [
+                    12,
+                    24
+                ],
+                "1": [
+                    20,
+                    32
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "396.00000000000006"
+        },
+        {
+            "stops": {
+                "12": [
+                    12,
+                    21
+                ],
+                "1": [
+                    17,
+                    26
+                ],
+                "6": [
+                    32,
+                    41
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "89",
+            "potential_trip_emission": "1646.5"
+        },
+        {
+            "stops": {
+                "3": [
+                    4,
+                    24
+                ],
+                "15": [
+                    14,
+                    34
+                ],
+                "5": [
+                    42,
+                    62
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Twingo II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "2736.0"
+        },
+        {
+            "stops": {
+                "3": [
+                    14,
+                    19
+                ],
+                "2": [
+                    21,
+                    26
+                ],
+                "7": [
+                    25,
+                    30
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "139",
+            "potential_trip_emission": "639.4000000000001"
+        },
+        {
+            "stops": {
+                "7": [
+                    2,
+                    13
+                ],
+                "6": [
+                    22,
+                    33
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "2147.0"
+        },
+        {
+            "stops": {
+                "7": [
+                    5,
+                    19
+                ],
+                "14": [
+                    13,
+                    27
+                ],
+                "6": [
+                    33,
+                    47
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "117",
+            "potential_trip_emission": "2831.4"
+        },
+        {
+            "stops": {
+                "10": [
+                    15,
+                    21
+                ],
+                "13": [
+                    21,
+                    27
+                ],
+                "2": [
+                    29,
+                    35
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 II",
+            "emission_rate_vehicle": "99",
+            "potential_trip_emission": "465.3"
+        },
+        {
+            "stops": {
+                "11": [
+                    4,
+                    24
+                ],
+                "12": [
+                    11,
+                    31
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "150",
+            "potential_trip_emission": "450.0"
+        },
+        {
+            "stops": {
+                "2": [
+                    3,
+                    24
+                ],
+                "9": [
+                    8,
+                    29
+                ],
+                "10": [
+                    15,
+                    36
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Captur I",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "644.0999999999999"
+        },
+        {
+            "stops": {
+                "14": [
+                    4,
+                    11
+                ],
+                "5": [
+                    28,
+                    35
+                ],
+                "8": [
+                    53,
+                    60
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "5940.0"
+        },
+        {
+            "stops": {
+                "10": [
+                    0,
+                    20
+                ],
+                "6": [
+                    19,
+                    39
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "2045.3000000000002"
+        },
+        {
+            "stops": {
+                "1": [
+                    15,
+                    25
+                ],
+                "15": [
+                    28,
+                    38
+                ],
+                "13": [
+                    37,
+                    47
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Dacia Sandero II",
+            "emission_rate_vehicle": "109",
+            "potential_trip_emission": "1199.0"
+        },
+        {
+            "stops": {
+                "10": [
+                    7,
+                    12
+                ],
+                "9": [
+                    14,
+                    19
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "327.7"
+        },
+        {
+            "stops": {
+                "10": [
+                    7,
+                    22
+                ],
+                "14": [
+                    14,
+                    29
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 II",
+            "emission_rate_vehicle": "99",
+            "potential_trip_emission": "227.7"
+        },
+        {
+            "stops": {
+                "13": [
+                    5,
+                    15
+                ],
+                "15": [
+                    14,
+                    24
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 III",
+            "emission_rate_vehicle": "85",
+            "potential_trip_emission": "399.5"
+        },
+        {
+            "stops": {
+                "10": [
+                    10,
+                    21
+                ],
+                "14": [
+                    17,
+                    28
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Hyundai IONIQ 5",
+            "emission_rate_vehicle": "0.0",
+            "potential_trip_emission": "0.0"
+        },
+        {
+            "stops": {
+                "7": [
+                    8,
+                    25
+                ],
+                "8": [
+                    12,
+                    29
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 307",
+            "emission_rate_vehicle": "129",
+            "potential_trip_emission": "193.5"
+        },
+        {
+            "stops": {
+                "2": [
+                    4,
+                    25
+                ],
+                "1": [
+                    11,
+                    32
+                ],
+                "10": [
+                    20,
+                    41
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "89",
+            "potential_trip_emission": "560.6999999999999"
+        },
+        {
+            "stops": {
+                "7": [
+                    13,
+                    19
+                ],
+                "6": [
+                    33,
+                    39
+                ],
+                "14": [
+                    53,
+                    59
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "3582.0"
+        },
+        {
+            "stops": {
+                "9": [
+                    11,
+                    24
+                ],
+                "8": [
+                    15,
+                    28
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 III",
+            "emission_rate_vehicle": "85",
+            "potential_trip_emission": "161.5"
+        },
+        {
+            "stops": {
+                "12": [
+                    4,
+                    9
+                ],
+                "5": [
+                    23,
+                    28
+                ],
+                "7": [
+                    47,
+                    52
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Captur I",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "4440.9"
+        },
+        {
+            "stops": {
+                "14": [
+                    2,
+                    22
+                ],
+                "4": [
+                    10,
+                    30
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "368.99999999999994"
+        },
+        {
+            "stops": {
+                "9": [
+                    5,
+                    23
+                ],
+                "11": [
+                    11,
+                    29
+                ],
+                "2": [
+                    19,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "904.5"
+        },
+        {
+            "stops": {
+                "13": [
+                    0,
+                    7
+                ],
+                "1": [
+                    5,
+                    12
+                ],
+                "8": [
+                    16,
+                    23
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "150",
+            "potential_trip_emission": "1095.0"
+        },
+        {
+            "stops": {
+                "12": [
+                    5,
+                    13
+                ],
+                "5": [
+                    24,
+                    32
+                ],
+                "4": [
+                    43,
+                    51
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "5076.0"
+        },
+        {
+            "stops": {
+                "4": [
+                    6,
+                    23
+                ],
+                "11": [
+                    14,
+                    31
+                ],
+                "1": [
+                    23,
+                    40
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 207",
+            "emission_rate_vehicle": "135",
+            "potential_trip_emission": "1228.5"
+        },
+        {
+            "stops": {
+                "10": [
+                    9,
+                    22
+                ],
+                "6": [
+                    28,
+                    41
+                ],
+                "15": [
+                    52,
+                    65
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Clio IV",
+            "emission_rate_vehicle": "105",
+            "potential_trip_emission": "2142.0"
+        },
+        {
+            "stops": {
+                "5": [
+                    12,
+                    19
+                ],
+                "10": [
+                    35,
+                    42
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Renault Twingo II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "1773.0"
+        },
+        {
+            "stops": {
+                "14": [
+                    7,
+                    13
+                ],
+                "15": [
+                    12,
+                    18
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "384.2"
+        },
+        {
+            "stops": {
+                "9": [
+                    9,
+                    24
+                ],
+                "7": [
+                    14,
+                    29
+                ],
+                "5": [
+                    38,
+                    53
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": false,
+            "mainly_driver": true,
+            "car_model": "Citro\u00ebn C3 II",
+            "emission_rate_vehicle": "87",
+            "potential_trip_emission": "2027.1000000000001"
+        },
+        {
+            "stops": {
+                "6": [
+                    15,
+                    20
+                ],
+                "9": [
+                    34,
+                    39
+                ],
+                "13": [
+                    45,
+                    50
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "150",
+            "potential_trip_emission": "2370.0"
+        },
+        {
+            "stops": {
+                "13": [
+                    1,
+                    8
+                ],
+                "14": [
+                    6,
+                    13
+                ],
+                "5": [
+                    30,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "2241.0"
+        },
+        {
+            "stops": {
+                "8": [
+                    11,
+                    21
+                ],
+                "11": [
+                    21,
+                    31
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Clio IV",
+            "emission_rate_vehicle": "85",
+            "potential_trip_emission": "484.5"
+        },
+        {
+            "stops": {
+                "1": [
+                    4,
+                    22
+                ],
+                "8": [
+                    15,
+                    33
+                ],
+                "12": [
+                    25,
+                    43
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "108",
+            "potential_trip_emission": "1015.2"
+        },
+        {
+            "stops": {
+                "14": [
+                    5,
+                    11
+                ],
+                "1": [
+                    13,
+                    19
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "113",
+            "potential_trip_emission": "497.20000000000005"
+        },
+        {
+            "stops": {
+                "1": [
+                    9,
+                    16
+                ],
+                "6": [
+                    24,
+                    31
+                ]
+            },
+            "pick-ups": [
+                2,
+                0
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Scenic III",
+            "emission_rate_vehicle": "145",
+            "potential_trip_emission": "2320.0"
+        },
+        {
+            "stops": {
+                "15": [
+                    15,
+                    23
+                ],
+                "4": [
+                    27,
+                    35
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 206",
+            "emission_rate_vehicle": "150",
+            "potential_trip_emission": "915.0"
+        },
+        {
+            "stops": {
+                "5": [
+                    1,
+                    13
+                ],
+                "3": [
+                    21,
+                    33
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Captur I",
+            "emission_rate_vehicle": "95",
+            "potential_trip_emission": "1824.0"
+        },
+        {
+            "stops": {
+                "9": [
+                    15,
+                    22
+                ],
+                "8": [
+                    19,
+                    26
+                ],
+                "4": [
+                    30,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Dacia Sandero II",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "630.0"
+        },
+        {
+            "stops": {
+                "8": [
+                    0,
+                    17
+                ],
+                "2": [
+                    6,
+                    23
+                ],
+                "9": [
+                    11,
+                    28
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "VW Golf V",
+            "emission_rate_vehicle": "132",
+            "potential_trip_emission": "699.5999999999999"
+        },
+        {
+            "stops": {
+                "9": [
+                    11,
+                    20
+                ],
+                "12": [
+                    20,
+                    29
+                ],
+                "1": [
+                    25,
+                    34
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "VW Polo V",
+            "emission_rate_vehicle": "108",
+            "potential_trip_emission": "756.0"
+        },
+        {
+            "stops": {
+                "11": [
+                    12,
+                    23
+                ],
+                "6": [
+                    26,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "102",
+            "potential_trip_emission": "846.6"
+        },
+        {
+            "stops": {
+                "6": [
+                    2,
+                    25
+                ],
+                "3": [
+                    17,
+                    40
+                ],
+                "1": [
+                    19,
+                    42
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Clio IV",
+            "emission_rate_vehicle": "85",
+            "potential_trip_emission": "1419.5"
+        },
+        {
+            "stops": {
+                "2": [
+                    3,
+                    11
+                ],
+                "10": [
+                    6,
+                    14
+                ],
+                "15": [
+                    16,
+                    24
+                ]
+            },
+            "pick-ups": [
+                1,
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 4,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 208 I",
+            "emission_rate_vehicle": "99",
+            "potential_trip_emission": "499.95"
+        },
+        {
+            "stops": {
+                "4": [
+                    10,
+                    24
+                ],
+                "12": [
+                    15,
+                    29
+                ],
+                "7": [
+                    24,
+                    38
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 208 I",
+            "emission_rate_vehicle": "99",
+            "potential_trip_emission": "514.8"
+        },
+        {
+            "stops": {
+                "15": [
+                    12,
+                    20
+                ],
+                "10": [
+                    22,
+                    30
+                ],
+                "8": [
+                    29,
+                    37
+                ]
+            },
+            "pick-ups": [
+                2,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                2
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Scenic III",
+            "emission_rate_vehicle": "145",
+            "potential_trip_emission": "1015.0"
+        },
+        {
+            "stops": {
+                "6": [
+                    6,
+                    21
+                ],
+                "2": [
+                    22,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                0
+            ],
+            "deliveries": [
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Citro\u00ebn C3 III",
+            "emission_rate_vehicle": "85",
+            "potential_trip_emission": "1377.0"
+        },
+        {
+            "stops": {
+                "5": [
+                    5,
+                    19
+                ],
+                "14": [
+                    29,
+                    43
+                ]
+            },
+            "pick-ups": [
+                1,
+                1
+            ],
+            "deliveries": [
+                0,
+                2
+            ],
+            "v_capacity": 5,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Peugeot 2008 I",
+            "emission_rate_vehicle": "90",
+            "potential_trip_emission": "2015.9999999999998"
+        },
+        {
+            "stops": {
+                "3": [
+                    2,
+                    20
+                ],
+                "1": [
+                    4,
+                    22
+                ],
+                "6": [
+                    19,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Clio II",
+            "emission_rate_vehicle": "143",
+            "potential_trip_emission": "2359.5"
+        },
+        {
+            "stops": {
+                "2": [
+                    10,
+                    18
+                ],
+                "11": [
+                    18,
+                    26
+                ],
+                "13": [
+                    29,
+                    37
+                ]
+            },
+            "pick-ups": [
+                1,
+                0,
+                0
+            ],
+            "deliveries": [
+                0,
+                0,
+                1
+            ],
+            "v_capacity": 3,
+            "driver": true,
+            "passenger": true,
+            "only_driver": false,
+            "only_passenger": false,
+            "mainly_passenger": true,
+            "mainly_driver": false,
+            "car_model": "Renault Clio III",
+            "emission_rate_vehicle": "139",
+            "potential_trip_emission": "1264.9"
+        }
+    ]
+}

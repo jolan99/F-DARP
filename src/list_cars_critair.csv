@@ -1,0 +1,60 @@
+model,fuel,conso_min, conso_max,CO2_emissions_min,CO2_emissions_max,conso_elec,Vignette
+Renault Clio IV,Essence,4.7, 5.6 ,105 , 127 ,0,1
+Renault Clio IV,Diesel,3.3  , 3.9 ,85  , 104 , 0,2
+Peugeot 208 I,Essence,4.3  , 5.6 ,99  , 129 , 0,1
+Peugeot 208 I,Diesel,3.0  , 3.8 ,79  , 98 ,0,  2
+Renault Clio III,Essence, 5.8  , 5.9 ,135  , 139 , 0,1
+Renault Clio III,Essence, 5.9  , 6.2 ,139  , 150 , 0,2
+Renault Clio III,Diesel, 3.4  , 4.4 ,90  , 115 , 0,2
+Renault Clio III,Diesel, 4.4  , 4.6 ,115  , 123 ,  0,3
+Peugeot 206,Essence, 6.3  , 7.0 ,150  , 170 , 0,3
+Peugeot 206,Diesel, 4.3  , 5.5 ,113  , 144 ,  0,5
+Peugeot 206,Diesel, 4.3  , 5.5 ,113  , 144 ,  0,4
+Peugeot 207,Essence, 5.8  , 6.4 ,135  , 149 , 0,1
+Peugeot 207,Essence, 6.3  , 7.0 ,150  , 165 , 0,2
+Peugeot 207,Diesel, 4.2  , 4.4 ,110  , 115 ,0,2
+Peugeot 207,Diesel, 4.5  , 4.8 ,117  , 126 ,0,3
+Renault Clio II,Essence, 6.0  , 7.2 ,143  , 170 ,0,3
+Renault Clio II,Diesel, 4.3  , 4.7 ,113  , 125 , 0,4
+Renault Clio II,Diesel, 4.3  , 4.7 ,113  , 125 , 0,5
+Peugeot 308 II,Essence, 4.6  , 5.2 ,104  , 120 , 0,1
+Peugeot 308 II,Diesel, 3.1  , 3.8 ,82  , 98 ,  0,2
+Dacia Sandero II,Essence / GPL, 4.9  , 5.8 ,109  , 130 , 0,1
+Dacia Sandero II,Diesel, 3.5  , 3.8 ,90  , 99 , 0,2
+Citroën C3 II,Essence, 4.3  , 5.8 ,99  , 134 , 0,1
+Citroën C3 II,Diesel, 3.4  , 3.8 ,87  , 99 ,  0,2
+Renault Captur I,Essence, 5.1  , 6.0 ,113  , 135 , 0,1
+Renault Captur I,Diesel, 3.6  , 4.2 ,95  , 111 , 0,2
+Renault Scenic III,Essence, 6.4  , 7.3 ,145  , 168 ,0,1
+Renault Scenic III,Diesel, 4.1  , 4.9 ,105  , 128 , 0,2
+Renault Twingo II,Essence, 4.5  , 5.1 ,105  , 119 , 0,1
+Renault Twingo II,Diesel, 3.4  , 3.6 ,90  , 94 ,0,2
+Peugeot 2008 I,Essence, 4.4  , 5.0 ,102  , 114 ,0,1
+Peugeot 2008 I,Diesel, 3.5  , 4.0 ,90  , 105 , 0,2
+Citroën C3 I,Essence, 6.0  , 6.5 ,140  , 155 , 0,3
+Citroën C3 I,Diesel, 4.2  , 4.5 ,109  , 120 , 0,4
+Citroën C3 I,Diesel, 4.2  , 4.5 ,109  , 120 , 0,5
+Peugeot 307,Essence, 6.5  , 7.5 ,155  , 178 ,0,3
+Peugeot 307,Diesel, 4.9  , 5.5 ,129  , 148 ,0,4
+Peugeot 307,Diesel, 4.9  , 5.5 ,129  , 148 , 0,5
+Renault Megane III,Essence, 5.3  , 6.9 ,119  , 159 ,0,1
+Renault Megane III,Diesel, 3.5  , 4.4 ,90  , 115 ,0,2
+Peugeot 308 I,Essence, 6.3  , 6.7 ,144  , 155 , 0,1
+Peugeot 308 I,Diesel, 4.2  , 4.6 ,110  , 120 ,0,2
+Citroën C3 III,Essence, 4.7  , 5.2 ,107  , 120 ,  0,1
+Citroën C3 III,Diesel, 3.2  , 3.7 ,85  , 95 ,  0,2
+VW Golf V,Essence, 6.4  , 7.4 ,155  , 175 , 0,2
+VW Golf V,Essence, 6.4  , 7.4 ,155  , 175 , 0,3
+VW Golf V,Diesel, 5.0  , 5.5 ,132  , 145 , 0,4
+VW Polo V,Essence, 4.7  , 5.9 ,108  , 139 , 0,1
+VW Polo V,Diesel, 3.4  , 4.2 ,89  , 109 , 0,2
+Renault Zoe (R110),Electric,  0,0,0,0, 17.2,E
+Peugeot e-208,Electric,  0,0,0,0, 15.5 ,E
+Tesla Model Y,Electric,  0,0,0,0, 15.7 ,E
+Dacia Spring,Electric, 0,0,0,0,  13.9 ,E
+Renault Mégane E-Tech,Electric,  0,0,0,0, 15.8  ,E
+Fiat 500e,Electric,  0,0,0,0, 14.3  ,E
+Volkswagen ID.3,Electric, 0,0,0,0,  15.3  ,E
+Kia EV6,Electric, 0,0,0,0,  16.5 ,E
+Hyundai IONIQ 5,Electric, 0,0,0,0,  17.0 ,E
+Citroën ë-C4,Electric,  0,0,0,0, 15.4  ,E

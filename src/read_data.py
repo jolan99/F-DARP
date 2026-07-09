@@ -3,7 +3,6 @@ from pathlib import Path
 from class_request import Request
 from class_scenario import Scenario
 from requirements import *
-from data_generator import get_submatrix
 
 def creates_instance(file_path: str) -> Scenario:
     """ Creates scenario from json file 

@@ -241,7 +241,14 @@ def run_all_combinations():
                         total_combinations += 1
 
  
+number_od = 30
+number_op = 10
+number_md = 40
+number_mp = 20
+number_scenarios=1
+geographic_size=15
+set_seed=10
 
-# generate_scenarios_D(30,10,40,20,1,15,seed = 10)
+generate_scenarios_D(number_od,number_op,number_md,number_mp,number_scenarios,geographic_size,seed = 10)
 # run_all_combinations()
 

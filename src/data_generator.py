@@ -111,7 +111,6 @@ def generate_request(request_type : str, nb_stops : int, type_scenario : str = N
 
     if request_type != 'op':
         ## Choose randomly a car from emissions.csv : 
-        # print(f'request type : {request_type}')
         df = pd.read_csv("src\list_cars_critair.csv")
         
         categories = ["E", "1", "2", "3", "4", "5"]
@@ -119,9 +118,7 @@ def generate_request(request_type : str, nb_stops : int, type_scenario : str = N
         vignette_choisie = np.random.choice(categories, p=probabilites)
         sous_df = df[df["Vignette"] == vignette_choisie]
         
-        print(f"debug data generator : seed ? {seed}")
         if seed : 
-            print("debug")
             ligne_aleatoire = sous_df.sample(
                 n=1,
                 random_state=seed
@@ -178,16 +175,15 @@ def generate_scenarios_D(od : int, op : int,md : int,mp : int,x : int,nb_stops, 
         requests = []
         
         for _ in range(od):
-            requests.append(generate_request("od",nb_stops,seed))
+            requests.append(generate_request("od",nb_stops,seed=seed))
         for _ in range(op):
-            requests.append(generate_request("op",nb_stops,seed))
+            requests.append(generate_request("op",nb_stops,seed=seed))
         for _ in range(md):
-            requests.append(generate_request("md",nb_stops,seed))
+            requests.append(generate_request("md",nb_stops,seed=seed))
         for _ in range(mp):
-            requests.append(generate_request("mp",nb_stops,seed))
+            requests.append(generate_request("mp",nb_stops,seed=seed))
         
         list_stops =create_list_stops(requests)
-        # print(f'debug !! list stops : {list_stops}')
         instance_data = {"requests": requests}
 
         file_name = f"{folder_name}/D_{len(list_stops)}_{od+op+md+mp}_od{od}_op{op}_md{md}_mp{mp}_{i}.json"

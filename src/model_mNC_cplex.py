@@ -4,7 +4,7 @@ from class_solution import Solution
 from class_scenario import Scenario
 
 
-def model_mNC_cplex(scenario: Scenario, verbose: int) -> Solution:
+def model_mNC_cplex(scenario: Scenario,time_limit:int, verbose: int) -> Solution:
     """ Il s'agit du modèle : 
             - 4 rôles 
             - coeff devant nb de requests : 9 
@@ -220,7 +220,7 @@ def model_mNC_cplex(scenario: Scenario, verbose: int) -> Solution:
     else:
         model.set_log_output(None)
 
-    solution = model.solve(log_output=verbose,time_limit=600)
+    solution = model.solve(log_output=verbose,time_limit=time_limit)
 
     
     if solution : 
@@ -273,5 +273,5 @@ def model_mNC_cplex(scenario: Scenario, verbose: int) -> Solution:
   
     # Collect values into a Solution object (assumed structure)
     
-    return Solution(status_,scenario,model.objective_value,nb_requests_satisfied,"mNC_CPLEX", x_values, y_values, F_values, theta_a_values, theta_d_values, Q_values, S_values,'cplex',multiplicator_bonus=multiplicator_bonus,verbose = verbose)
+    return Solution(status_,scenario,model.objective_value,nb_requests_satisfied,"mNC_CPLEX", x_values, y_values, F_values, theta_a_values, theta_d_values, Q_values, S_values,'cplex',multiplicator_bonus=multiplicator_bonus,time_limit=time_limit,verbose = verbose)
     

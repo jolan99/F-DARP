@@ -12,7 +12,7 @@ def run_model(method: str, solver: str, scenario: str, time_limit : int = 600, v
     
     if method == "mNC":
         if solver == "CPLEX":
-            solution = model_mNC_cplex(scenario, verbose)
+            solution = model_mNC_cplex(scenario, time_limit,verbose)
     
     elif method == "MACE":
         if solver == "CPLEX":
@@ -85,8 +85,8 @@ def run_on_single_file(
 if __name__ == "__main__":
     verbose = 1
     save = True
-    time_limit = 60
-    method = "MACE" 
+    time_limit = None
+    method = "mNC" 
     solver = "CPLEX"
     scenario_file = 'Scenarios\Scenarios_D\D_15_100_od30_op10_md40_mp20_1.json'
 

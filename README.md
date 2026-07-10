@@ -30,4 +30,6 @@ Pre-requisite : you need Cplex installed in your machine. https://www.ibm.com/pr
 
 ### How do I generate new scenarios ? 
 1) Go to src/data_generator.py
-2) Chose the following parameters : number of only drivers, only passengers, mainly drivers and mainly passengers, 
+2) Chose the following parameters : number of only drivers, only passengers, mainly drivers and mainly passengers, and the size of the geographical area (maximum number of possible stops)
+3) You can chose also the number of scenarios to generate with those settings, and if you want to set a seed.
+4) Once the parameters are chosen, execute the file. 

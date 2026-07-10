@@ -3,7 +3,7 @@
 We solve the F-DARP problem with a MILP, and we analyse two different objective functions. 
 
 We study two objectve functions : 
-- Maximization of Avvoided Carbon Emissions (MACE)
+- Maximization of Avoided Carbon Emissions (MACE)
 - Minimization of the Number of Cars (mNC)
 
 ### Description of the scenarios
